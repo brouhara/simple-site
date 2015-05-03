@@ -1,95 +1,93 @@
 * {
-  Box-sizing: Border-box
-  }
-header {
-  background:#333;
-  color:#999;
-  height:125px;
-  margin-bottom:30px;
-  padding:3px;
-  width:80%;
+    Box-sizing: Border-box
 }
- header h1, .slogan {
-  margin-bottom:0;
-  margin-left:9.6%;
-  font-weight:100;
+header {
+    background: #333;
+    color: #999;
+    height: 125px;
+    margin-bottom: 30px;
+    padding: 3px;
+    width: 80%;
+}
+header h1,
+.slogan {
+    margin-bottom: 0;
+    margin-left: 9.6%;
+    font-weight: 100;
 }
 nav {
-  background: #222;
-  float:right;
-  width:414px;
-  height:55px;
-  padding:20px;
-  margin-right:26.5%;
-  margin-top:-7%;
-
+    background: #222;
+    float: right;
+    width: 475px;
+    height: 55px;
+    padding: 20px;
+    margin-right: 26.5%;
+    margin-top: -8.5%;
 }
 nav a {
-  color:#999;
-  padding:5px;
+    color: #999;
+    padding: 10px;
 }
 a {
-  text-decoration:none;
+    text-decoration: none;
 }
 .readmore {
-  float:right;
-  color:orange;
+    float: right;
+    color: orange;
 }
 .maintop {
-  width: 80%;
-  display:inline-block;
-  margin-left:8%;
-  margin-right:8%;
+    width: 80%;
+    display: inline-block;
+    margin-left: 8%;
+    margin-right: 8%;
 }
 .mainarticle {
-  width:300px;
-  height:300px;
-  background:lightgray;
-  padding:20px;
-  color:#999;
-  line-height:1.5;
+    width: 300px;
+    height: 300px;
+    background: lightgray;
+    padding: 20px;
+    color: #999;
+    line-height: 1.5;
 }
 article h1 {
-  font-size:40px;
-  font-weight:100;
-  margin:0;
-  line-height:1;
-  margin-bottom:15px;
+    font-size: 40px;
+    font-weight: 100;
+    margin: 0;
+    line-height: 1;
+    margin-bottom: 15px;
 }
 .mainimage {
-  float:right;
-  margin-top:-300px;
-  margin-right:18.3%;
+    float: right;
+    margin-top: -300px;
+    margin-right: 18.3%;
 }
-.bottomarticle{
-  margin-left:100px;
-  width:80%;
-  height:300px;
-  margin-bottom:80px;
+.bottomarticle {
+    margin-left: 100px;
+    width: 80%;
+    height: 300px;
+    margin-bottom: 80px;
 }
 .miniarticle {
-  width:27.4%;
-  padding:20px;
-  display:inline-block;
-  color:#999;
-  height:auto;
+    width: 27.4%;
+    padding: 20px;
+    display: inline-block;
+    color: #999;
+    height: auto;
 }
-.bottomimage{
-  float:left;
-  border:1px solid lightgray;
-  padding: 3px;
-  margin-top: 0
-  margin-left: 6px;
-  margin-right: 6px;
-  margin-bottom:30px;
-
+.bottomimage {
+    float: left;
+    border: 1px solid lightgray;
+    padding: 3px;
+    margin-top: 0 margin-left: 6px;
+    margin-right: 6px;
+    margin-bottom: 30px;
 }
 footer {
-  background: #333;
-  color:#999;
-  padding:20px;
-  width:80%;
+    background: #333;
+    color: #999;
+    padding: 20px;
+    width: 80%;
 }
 .footertxt {
-  margin-left:9.6%;
+    margin-left: 9.6%;
 }
