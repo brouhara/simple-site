@@ -1,4 +1,4 @@
-# Website Homework
+# Week One Project
 
 Create the website from the screenshot bellow, giving the following
 constraints:
