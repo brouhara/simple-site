@@ -1,6 +1,8 @@
 # Week One Project
 
-Create the website from the screenshot bellow, giving the following
+For this project, you will be creating a landing page for a company of your choice. (Preferably a made up company with an outrageous name and business plan).
+
+Create the landing page from the screenshot bellow, giving the following
 constraints:
 
 * The site must use a `reset` or `normalize` stylesheet.
