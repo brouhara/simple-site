@@ -1,0 +1,11 @@
+.company {
+    order: 0;
+    display: inline-flex;
+    flex-flow: row;
+    align-self: flex-start;
+
+    height:100%;
+	width: 33%;
+}
+
+

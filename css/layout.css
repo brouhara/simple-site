@@ -1,0 +1,37 @@
+
+flex {
+        display: inline-flex;
+        position: relative;
+
+        margin: 0;
+        padding: 0;
+}
+
+/*flex[col] {
+    flex-flow: column;
+}*/
+
+.flex.col {
+    flex-flow: row;
+}
+
+.flex.row {
+    flex-flow: row;
+}
+
+.flex {} 
+    span: [{
+    width: 33%;
+} ];
+
+.flex[span="2"] {
+    width: 66%;
+}
+
+.flex[span="3"] {
+    width: 100%;
+}
+
+.pad {
+    margin-right: 1%;
+}

@@ -1,0 +1,36 @@
+
+.f1 {
+    display: inline-flex;
+
+    font-size: 2vw;
+    font-family: Verdana, Geneva, sans-serif;
+    color:  crimson;
+}
+
+.f2 {   
+    display: inline-flex;
+
+    font-size: 2vw;
+    font-family: Impact, Charcoal, sans-serif;
+    color: cornflowerblue;
+}
+
+
+article span.article-title  {
+    display: inline-flex;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-size: 3vh;
+    height: 100%;
+    width: 100%;
+    margin:0;
+}
+
+article span.article-sub {
+    display: inline-flex;
+   font-family: Verdana, sans-serif;
+    font-size: 2vh;
+    height: 100%;
+    width: 100%;
+    margin: 0;
+}
+

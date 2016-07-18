@@ -1,0 +1,56 @@
+article {
+    display: inline-flex;
+    flex-direction: column;
+
+    width: 33%;
+    height: 100%;
+
+    margin: 0;
+
+    border-right: #232323, 10px;
+}
+
+article header {
+    display: inline-flex;
+    flex-flow: column;
+    margin: 2%;
+    padding: 0;
+
+    height: inherit;
+    width: 100%;
+
+    color: #232323;
+}
+
+
+article div.main {
+    display: inline-flex;
+
+    width: 100%;
+    height: 100%;
+}
+
+article img {
+    display: inline-block;
+    
+    margin-right: 2%;
+    padding-right: 2%;
+    
+    border-style: double;
+}
+
+article p {
+     margin: 5%;
+}
+
+article img.span1 {
+    float: left;
+
+    width: 33%;
+    height: 33%;
+}
+
+article a {
+    display: inline-flex;
+    color: orange;
+}
